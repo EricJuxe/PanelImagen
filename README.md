@@ -8,4 +8,4 @@ Un panel al que le puedes asignar una ruta de imagen. Puedes agrandar o hacer ma
 
 
 
-Se incluye una carpeta Img donde se puede guarar algunas imagenes, asi como una clase main para poner hacer cambios al gusto del usuario, tambien se incluye una prueba para poner ver el funcionamiento del componente
+Se incluye una carpeta Img donde se puede guarar algunas imagenes, asi como una clase  panelimagen para hacer cambios al gusto del usuario, tambien se incluye una prueba para poder ver el funcionamiento del componente. el codigo ya cuenta con un metoodo main para poder ejecutar y hacer las pruebs necesarias
